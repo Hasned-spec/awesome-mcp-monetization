@@ -30,6 +30,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [Coinbase Payments MCP](https://github.com/coinbase/coinbase-payments-mcp) - Full MCP server for cryptocurrency payments with companion wallet functionality.
 
 ## Platforms and Services
+- [ox402-utils](https://treating-arcade-overall-enough.trycloudflare.com) — 88 x402-paid tools (AI image/text, research, security, media, speech) with an MCP server at /mcp402/. USDC on Base.
 
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
